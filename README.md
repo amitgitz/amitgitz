@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Amit Choudhary</h1>
-<h3 align="center">A passionate Backend developer from India</h3>
+<h3 align="center">A learner of Backend , DevOps  & ML from India</h3>
 
 
 <p align="left"> <a href="https://twitter.com/amitwtz" target="blank"><img src="https://img.shields.io/twitter/follow/amitwtz?logo=twitter&style=for-the-badge" alt="amitwtz" /></a> </p>
 
 - 🌱 I’m currently learning **DSA , GCP , AWS & NodeJs**
 
-- 💬 Ask me about **Nodejs Development**
+- 💬 Ask me about **Django Development**
 
 - 📫 How to reach me **choudharyamitkumar03@gmail.com**
 
