@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working DevOps and Cloud Computing<br>👯 I’m looking to collaborate on Open Source Project<br>🤝 I’m looking for help with DevsecOps and MLOps<br>🌱 I’m currently learning GCP, AWS, Blockchain & MEAN Stack<br>💬 Ask me about DevOps
+🔭 I’m currently Learning DevOps and Cloud Computing<br>👯 I’m looking to collaborate on Open Source Project<br>🤝 I’m looking for help with DevsecOps and MLOps<br>🌱 I’m currently learning GCP, AWS, Blockchain & MEAN Stack<br>💬 Ask me about DevOps
 
 
 ## 🌐 Socials:
