@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Junior DevOps Enginner @listed <br>👯 I’m looking to collaborate on Open Source Project<br>🤝 I’m looking to collaborate on  DevsecOps and MLOps<br>🌱 I’m currently learning GCP, AWS and Django Development <br>💬 Ask me about DevOps
+🔭 DevOps Enginner @Outbox Labs <br>👯 I’m looking to collaborate on Open Source Project<br>🤝 I’m looking to collaborate on  DevsecOps and MLOps<br>🌱 I’m currently learning GCP, AWS and Django Development <br>💬 Ask me about DevOps
 
 
 ## 🌐 Socials:
