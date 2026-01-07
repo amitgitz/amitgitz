@@ -73,5 +73,3 @@ DevOps Engineer at Outbox Labs with expertise in designing, implementing, and ma
 Follow my work and insights on [Twitter](https://twitter.com/amitwtz) for the latest in DevOps, cloud infrastructure, and automation.
 
 ---
-
-*Profile created with attention to professional presentation and technical accuracy.*
